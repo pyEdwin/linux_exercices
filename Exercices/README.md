@@ -7,5 +7,5 @@
 
 - Add the superhero group to tstark , dprince , and cdanvers.
 
-- Look the dprince account
+- Look the dprince account.
 -------------------------------------------
