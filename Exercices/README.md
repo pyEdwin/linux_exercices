@@ -3,7 +3,7 @@
 
 - Create the superhero group.
 
-- Make the tstark user a superuser
+- Make the tstark user a superuser.
 
 - Add the superhero group to tstark , dprince , and cdanvers.
 
